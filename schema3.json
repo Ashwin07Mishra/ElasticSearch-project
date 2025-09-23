@@ -1,0 +1,24 @@
+{
+  "complaints": {
+    "columns": [
+      {"name": "id", "type": "keyword"},
+      {"name": "complaintDetails", "type": "text"},
+      {"name": "userId", "type": "integer"},
+      {"name": "fullName", "type": "text"},
+      {"name": "CityName", "type": "text"},
+      {"name": "stateName", "type": "text"},
+      {"name": "country", "type": "keyword"},
+      {"name": "userType", "type": "keyword"},
+      {"name": "status", "type": "integer"},
+      {"name": "complaintRegDate", "type": "date"},
+      {"name": "updationDate", "type": "date"},
+      {"name": "complaintType", "type": "text"},
+      {"name": "complaintMode", "type": "text"},
+      {"name": "categoryCode", "type": "integer"},
+      {"name": "companyName", "type": "text"},
+      {"name": "complaintStatus", "type": "keyword"},
+      {"name": "companyStatus", "type": "keyword"},
+      {"name": "lastUpdationDate", "type": "keyword"}
+    ]
+  }
+}

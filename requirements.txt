@@ -1,0 +1,10 @@
+elasticsearch8
+python-dotenv
+sentence-transformers
+tabulate
+matplotlib
+pandas
+numpy
+scipy
+requests
+urllib3

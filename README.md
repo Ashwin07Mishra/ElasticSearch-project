@@ -26,7 +26,6 @@ es_rag/
 │       └── __init__.py
 │
 ├── .env              
-├── .gitignore
 ├── app2.py           
 ├── main.py
 └── requirements.txt

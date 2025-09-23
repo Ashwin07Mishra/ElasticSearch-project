@@ -19,7 +19,7 @@ from tabulate import tabulate
 # --- Configuration ---
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-LLAMA_API_KEY = "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"
+LLAMA_API_KEY = "your api key"
 LLAMA_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL_NAME = "meta-llama/llama-3-70b-instruct"
 
@@ -61,7 +61,7 @@ def call_openrouter_api(prompt: str):
         return None
 
 ELASTICSEARCH_HOST = "https://localhost:9200"
-ELASTICSEARCH_AUTH = ("elastic", "KwO1IHXN4OB0DZu*V2mm")
+ELASTICSEARCH_AUTH = ("elastic", "elastic search password")
 REGISTRATIONS_INDEX = "complaints"  # Updated from "registrations" to match schema3
 EXAMPLES_INDEX = "es_examples"
 QUERY_LOGS_INDEX = "query_logs"

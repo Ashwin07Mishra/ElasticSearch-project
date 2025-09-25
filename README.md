@@ -93,16 +93,9 @@ python main.py --json-file resources/complaints/dataset3.json
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repo  
-2. Create your feature branch (`git checkout -b feature/xyz`)  
-3. Commit changes (`git commit -m 'Add new feature'`)  
-4. Push to branch (`git push origin feature/xyz`)  
-5. Open a Pull Request  
 
 ---
 
 ## 📜 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 
